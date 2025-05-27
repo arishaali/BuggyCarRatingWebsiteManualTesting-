@@ -1,6 +1,6 @@
 # BuggyCarRatingWebsiteManualTesting-
 
-# 🚗 Buggy Car Website Testing (Manual QA)
+## 🚗 Buggy Car Website Testing (Manual QA)
 
 Manual testing project for: [buggy.justtestit.org](https://buggy.justtestit.org/)
 
